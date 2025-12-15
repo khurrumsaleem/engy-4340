@@ -1,4 +1,4 @@
-# Engy-4340 Nuclear Reactor Theory
+# CT-400 Nuclear Reactor Theory
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dpploy/engy-4340/tree/main/notebooks/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/engy-4340/main?filepath=notebooks)
@@ -6,11 +6,9 @@
 ![Website](https://img.shields.io/website/https/github.com/dpploy/engy-4340.svg)
 [![Size](https://img.shields.io/github/repo-size/dpploy/engy-4340.svg?label=size&style=flat)](https://github.com/dpploy/engy-4340)
 
-   + [University of Massachusetts Lowell](https://www.uml.edu/), Fall 2024
-   + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/) (Nuclear Energy Program)
-   + [Prof. Valmor F. de Almeida](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) (valmor_dealmeida@uml.edu)
+   + [Cortix Tech](https://cortix.tech/), Training & Certification
 
-This site will be in construction during this semester.
+![](notebooks/images/pt-reactor.png)
 
 This course uses Jupyter Notebooks in Python programming language. The content can be accessed in
 the following ways:
@@ -23,8 +21,11 @@ start a Jupyter Notebook server on your web browser with all notebooks listed. U
 clicking on individual notebook files, you will access the live course notebooks.
 + Use the green `Code` button above on the right upper side of the page and either download the repository using **GitHub Desktop** or download a **ZIP archive** to your local machine. Unzip the archive. Then use your own Jupyter Notebook server (*see Syllabus or Introduction notebooks on how to install Anaconda*) to navigate to the directory created by the unzip or GitHub Desktop operation and upload the notebook files. In the case of a ZIP download, the files will not be updated on your local machine and you will need to return to the repository for getting new files or updated versions of previously downloaded files as the course progresses. If you use GitHub Desktop, the repository will be in sync.
 
-> *Students will profit from either taking or self-studying the [computational companion course ChEn-3170](https://github.com/dpploy/chen-3170).*
+> *Professionals will profit from either taking or self-studying the [computational companion course CT-300](https://github.com/dpploy/ct-300).*
 
 Thanks in advance for inputs to improve this course.\
 Regards,\
-Prof. Valmor F. de Almeida
+Dr. Valmor F. de Almeida, [Cortix Tech](https://cortix.tech)
+
+## History
+This training material was developed and used for several years by Dr. Valmor F. de Almeida while teaching as an associate professor of nuclear chemical engineering at UMass Lowell USA. This is now offered as training and certification at [Cortix Tech](https://cortix.tech).
