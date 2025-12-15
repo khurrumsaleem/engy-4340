@@ -1,4 +1,4 @@
-# CT-400 Nuclear Reactor Theory
+# CT-400 Nuclear Reactor Theory in Chemical Engineering
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dpploy/engy-4340/tree/main/notebooks/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/engy-4340/main?filepath=notebooks)
