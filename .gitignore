@@ -9,7 +9,7 @@ homework*.md
 *bonus*
 *Copy*
 01-cte-rho-pt-reactor*
-*.png
+#*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
