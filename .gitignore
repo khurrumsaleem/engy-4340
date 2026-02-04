@@ -1,4 +1,5 @@
 # Local
+.venv
 *~
 *md-to-pdf.txt
 homework*.md
