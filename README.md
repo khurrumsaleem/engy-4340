@@ -8,8 +8,6 @@
    + [Cortix Tech](https://cortix.tech/), Training & Certification
    + Licensed under the Cortix Tech Courseware & Sample Code License (CT-CSL) v1.0 — see LICENSE.
 
-![](notebooks/images/pt-reactor.png)
-
 |   |  |
 |:--:|:--:|
 | <img width="350" src="notebooks/images/point-reactor.png" title="Sketch"> | <img width="550" src="notebooks/images/pt-reactor.png" title="Start-up"> |
