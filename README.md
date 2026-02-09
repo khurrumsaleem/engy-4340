@@ -1,9 +1,9 @@
 # CT-400 Nuclear Reactor Theory in Chemical Engineering
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dpploy/engy-4340/tree/main/notebooks/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/engy-4340/main?filepath=notebooks)
-![Website](https://img.shields.io/website/https/github.com/dpploy/engy-4340.svg)
-[![Size](https://img.shields.io/github/repo-size/dpploy/engy-4340.svg?label=size&style=flat)](https://github.com/dpploy/engy-4340)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dpploy/ct-400/tree/main/notebooks/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/ct-400/main?filepath=notebooks)
+![Website](https://img.shields.io/website/https/github.com/dpploy/ct-400.svg)
+[![Size](https://img.shields.io/github/repo-size/dpploy/ct-400.svg?label=size&style=flat)](https://github.com/dpploy/ct-400)
 
    + [Cortix Tech](https://cortix.tech/), Training & Certification
    + Licensed under the Cortix Tech Courseware & Sample Code License (CT-CSL) v1.0 — see LICENSE.
@@ -33,7 +33,8 @@ Dr. Valmor F. de Almeida, [Cortix Tech](https://cortix.tech)
    + `uv run jupyter notebook`
 
 ## History
-This training material was developed and used for several years (Fall 2022, 2023, 2024) by
+This training material was developed and used as the catalog course Engy-4340 (Fall 2022, 
+2023, 2024) by
 Dr. Valmor F. de Almeida while teaching as an associate professor of nuclear chemical
 engineering at UMass Lowell USA. This is now offered as training and certification at
 [Cortix Tech](https://cortix.tech).
