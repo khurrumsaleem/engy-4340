@@ -10,6 +10,10 @@
 
 ![](notebooks/images/pt-reactor.png)
 
+|   |  |
+|:--:|:--:|
+| <img width="350" src="notebooks/images/point-reactor.png" title="Sketch"> | <img width="550" src="notebooks/images/pt-reactor.png" title="Start-up"> |
+
 This course uses Jupyter Notebooks in Python programming language. The content can be accessed in
 the following ways:
 + Static HTML version of the notebooks will be displayed on the current browser if a 
